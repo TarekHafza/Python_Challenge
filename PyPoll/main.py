@@ -1,7 +1,7 @@
 import os
 import csv
 
-election_data = os.path.join("election_data.csv")
+election_data = os.path.join("C:/Users/tarek/Documents/GitHub/Python_Challenge/PyPoll/Resources/election_data.csv")
 
 candidates = []
 num_votes = []
