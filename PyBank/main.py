@@ -3,7 +3,7 @@ import os
 import csv
 
 #Find path for csv to be read from
-csvpath = os.path.join("C:/Users/tarek/Documents/GitHub/Python_Challenge/PyBank/Resources/budget_data.csv")
+csvpath = os.path.join("PyBank/Resources/budget_data.csv")
 
 #Creating needed objects
 total_months = 0

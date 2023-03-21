@@ -3,7 +3,7 @@ import os
 import csv
 
 #Find path for csv to be read from
-election_data = os.path.join("C:/Users/tarek/Documents/GitHub/Python_Challenge/PyPoll/Resources/election_data.csv")
+election_data = os.path.join("PyPoll/Resources/election_data.csv")
 
 #Needed objects
 candidates = []
